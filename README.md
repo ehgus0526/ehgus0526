@@ -70,7 +70,7 @@
       <td><a href="https://develop.d3p6b1vb4dsl68.amplifyapp.com/">Room-In-Us</a></td>
       <td>Frontend Engineer</td>
       <td>Javascript, React</td>
-      <td>2024.08 ~ 2025.08</td>
+      <td>2024.08 ~ now</td>
     </tr>
     <tr>
       <td><a href="https://gdggcu.netlify.app/">GDG on Gachon</a></td>
@@ -82,7 +82,7 @@
       <td><a href="https://play.google.com/store/apps/details?id=com.bytecompany.careerfy">Careerfy</a></td>
       <td>Frontend Engineer</td>
       <td>Flutter</td>
-      <td>2025.06 ~ now</td>
+      <td>2025.06 ~ 2025.09</td>
     </tr>
   </table>
   <br/>
