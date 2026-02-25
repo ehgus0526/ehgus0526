@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-vert-three-96.vercel.app/api?username=ehgus0526&show_icons=true&count_private=true&line_height=24&theme=great-gatsby&hide=stars" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgus0526&layout=compact&theme=great-gatsby" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgus0526&layout=compact&theme=great-gatsby" height="150"/> -->
 </p>
 <br/>
 
@@ -67,10 +67,10 @@
       <th>Period</th>
     </tr> 
     <tr>
-      <td><a href="https://develop.d3p6b1vb4dsl68.amplifyapp.com/">Room-In-Us</a></td>
+      <td><a href="https://roominus.kr">Room-In-Us</a></td>
       <td>Frontend Engineer</td>
       <td>Javascript, React</td>
-      <td>2024.08 ~ now</td>
+      <td>2024.08 ~ 2026.02</td>
     </tr>
     <tr>
       <td><a href="https://gdggcu.netlify.app/">GDG on Gachon</a></td>
@@ -79,10 +79,10 @@
       <td>2025.01 ~ 2025.08</td>
     </tr>
     <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=com.bytecompany.careerfy">Careerfy</a></td>
+      <td><a href="https://tosto.re/careerfy">Careerfy</a></td>
       <td>Frontend Engineer</td>
-      <td>Flutter</td>
-      <td>2025.06 ~ 2025.09</td>
+      <td>Flutter, Typescript, React, Next.Js</td>
+      <td>2025.06 ~ now</td>
     </tr>
   </table>
   <br/>
@@ -96,11 +96,11 @@
       <th>Role</th>
       <th>Development Stacks</th>
       <th>Period</th>
-    </tr> 
+    </tr>
     <tr>
       <td><a href="https://www.mydailybyte.com/">ByteCompany</a></td>
       <td>Frontend Engineer</td>
-      <td>Flutter</td>
+      <td>Flutter, Typescript, React, Next.Js</td>
       <td>2025.05 ~ now</td>
     </tr>
   </table>
@@ -112,7 +112,7 @@
 
   <!-- Frontend -->
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,dart,flutter" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter" height="30" />
 
   <!-- Backend -->
   <h4>Backend</h4>
