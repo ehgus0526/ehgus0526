@@ -79,7 +79,7 @@
       <td>2025.01 ~ 2025.08</td>
     </tr>
     <tr>
-      <td><a href="https://tosto.re/careerfy">Careerfy</a></td>
+      <td><a href="https://www.careerfy.co/">Careerfy</a></td>
       <td>Frontend Engineer</td>
       <td>Flutter, Typescript, React, Next.Js</td>
       <td>2025.06 ~ now</td>
